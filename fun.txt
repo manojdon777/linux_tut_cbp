@@ -1,0 +1,4 @@
+1. 1Unix is an operating system.
+2. unix is easy in understanding.
+3. this line does not contain that u--- word.
+4. this line contains both kunix and UNIX

@@ -1,0 +1,47 @@
+PAN Card Number :
+   ASDFG1234Q   1 #Valid
+   ASDF12345Q   2 #Invalid
+   ASDFG12345   3 #Invalid
+   ASDFG7896P   4 #Valid
+   ASGDF1548W   5 #Invalid
+   AP6676KIOL   6 #Invalid
+
+A – Association of Persons
+B – Body of Individuals
+C – Company
+F – Firms
+G – Government
+H – Hindu Undivided Family
+L – Local Authority
+J – Artificial Judicial Person
+P – Individual
+T – Association of Persons for a Trust
+   
+Date :
+   11-01-2022   1 #Valid
+   11-11-2021   2 #Valid
+   05-12-2021   3 #Valid
+   35-38-2021   4 #Invalid
+   35-08-2021   4 #Invalid
+
+Aadhar numbers :
+   5674 3658 2875   1 #valid
+   5433 3276 32786  2 #invalid
+   0123 5678 8765   3 #invalid
+   23453 4567 9775  4 #invalid
+   d234 3456 9876   5 #invalid
+   6753 4567 9999   6 #valid
+
+  It should have 12 digits.
+  It should not start with 0 and 1.
+  It should not contain any alphabet and special characters.
+  It should have white space after every 4 digits.
+
+ abc@xyz.com        # 1 Valid         
+ sumit@yahoo.com    # 2 Valid            
+ 99aman@99.com      # 3 Invalid          
+ saman@8898.com	    # 4 Valid   
+ amit.google@com    # 5 Invalid
+ amit.google.com    # 6 Invalid          
+ amar@abc@kk.com    # 7 Invalid            
+ amar@k%k.com       # 8 Invalid           

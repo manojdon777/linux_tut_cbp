@@ -1,0 +1,18 @@
+1. Create a text file named sample.txt with some content.Use redirection to save the contents of sample.txt into another file named backup.txt.
+
+2.1 Create file that contains 1 to 1000 numbers in separated by line.
+2.2 Create file that contains 1 to 1000 numbers in separated by space.
+
+3. Execute a ls that generates standard output and redirect it to a file named output.txt.View the contents of output.txt to ensure the redirection was successful.
+
+4.1 Execute a any invalid command that generates an error message and redirect the error output to a file named error.txt.
+4.1 Execute a any invalid command that generates an error message and redirect the error output to /dev/null.
+
+5. Execute a command that generates both standard output and standard error, and redirect both to separate files (output.txt for standard output and error.txt for standard error).
+View the contents of both files to ensure successful redirection of both output streams.
+
+6. Use a pipe (|) to redirect the output of one command as input to another command. For example, list all files in the current directory and then use a pipe to filter the results to only display .txt files.
+
+7. Create a simple script that accepts input from the user (e.g., their name) and then echoes a greeting. Redirect input from a file containing a predefined name to the script and display the greeting using the predefined name.
+
+8. List all files in the current directory using ls. Pipe the output of ls to grep to filter only .txt files. Redirect the filtered output to a file named text_files.txt.

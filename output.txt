@@ -1,0 +1,14 @@
+Hit:3 https://brave-browser-apt-release.s3.brave.com stable InRelease
+Hit:4 https://deb.nodesource.com/node_21.x nodistro InRelease
+Hit:5 https://repo.skype.com/deb stable InRelease
+Hit:7 https://dl.google.com/linux/chrome/deb stable InRelease
+Hit:1 https://ftp.iitm.ac.in/ubuntu jammy InRelease
+Hit:9 https://download.sublimetext.com apt/stable/ InRelease
+Hit:10 https://debrepo.freedownloadmanager.org bionic InRelease
+Hit:2 https://ftp.iitm.ac.in/ubuntu jammy-updates InRelease
+Hit:6 https://ftp.iitm.ac.in/ubuntu jammy-backports InRelease
+Hit:8 https://ftp.iitm.ac.in/ubuntu jammy-security InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+5 packages can be upgraded. Run 'apt list --upgradable' to see them.

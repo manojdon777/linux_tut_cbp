@@ -1,0 +1,320 @@
+1   What is the default shell in most Linux distributions?
+    A) Bash
+    B) Zsh
+    C) KornShell
+    D) C Shell
+    
+2   Which command is used to display the current directory in Linux?
+    A) ls
+    B) cd
+    C) pwd
+    D) dir
+    
+3   Which command is used to create a new directory in Linux?
+    A) md
+    B) mkdir
+    C) newdir
+    D) mkd
+    
+4   What command is used to list all files in a directory including hidden files?
+    A) ls
+    B) list
+    C) ls -a
+    D) lsh
+    
+5   Which command is used to remove a file in Linux?
+    A) delete
+    B) rm
+    C) remove
+    D) del
+    
+6   What command is used to copy files and directories in Linux?
+    A) cp
+    B) mv
+    C) copy
+    D) mvdir
+    
+7   Which command is used to display the manual of other commands?
+    A) info
+    B) help
+    C) man
+    D) docs
+    
+8   What command is used to change permissions of a file in Linux?
+    A) chmod
+    B) chperm
+    C) permod
+    D) perm
+    
+9   Which command is used to search for files in Linux?
+    A) find
+    B) search
+    C) locate
+    D) grep
+    
+10  Which command is used to display the contents of a file in Linux?
+    A) cat
+    B) print
+    C) read
+    D) view
+    
+11  What command is used to compress files in Linux?
+    A) zip
+    B) compress
+    C) gzip
+    D) tar
+    
+12  Which command is used to change the owner of a file in Linux?
+    A) own
+    B) changeowner
+    C) chown
+    D) owner
+    
+13  What command is used to display the current date and time in Linux?
+    A) date
+    B) time
+    C) datetime
+    D) clock
+    
+14  Which command is used to create a symbolic link in Linux?
+    A) ln
+    B) symlink
+    C) link
+    D) lnk
+    
+15  What command is used to check disk usage in Linux?
+    A) du
+    B) df
+    C) diskusage
+    D) checkdisk
+    
+16  Which command is used to terminate a running process in Linux?
+    A) kill
+    B) stop
+    C) end
+    D) terminate
+    
+17  What command is used to display the last few lines of a file in Linux?
+    A) head
+    B) bottom
+    C) tail
+    D) end
+    
+18  Which command is used to create a new empty file in Linux?
+    A) touch
+    B) newfile
+    C) create
+    D) mkfile
+    
+19  What command is used to rename a file in Linux?
+    A) ren
+    B) rename
+    C) mv
+    D) move
+    
+20  Which command is used to list all processes running in Linux?
+    A) ps
+    B) process
+    C) listprocess
+    D) showprocess
+    
+21  What is the purpose of the chmod command in Linux?
+    A) Change file ownership
+    B) Change file permissions
+    C) Change file content
+    D) Change file size
+    
+22  In Linux, what is the purpose of the grep command?
+    A) Display the contents of a file
+    B) Search for text patterns within files
+    C) Copy files and directories
+    D) Remove files or directories
+    
+23  Which command is used to add a user to a group in Linux?
+    A) usermod
+    B) addgroup
+    C) adduser
+    D) useradd
+    
+24  In Linux, which command is used to display the current network configuration?
+    A) ifconfig
+    B) netconf
+    C) confignet
+    D) network
+    
+25  In Linux, what is the purpose of the find command?
+    A) Display system information
+    B) Search for files and directories
+    C) Manipulate text files
+    D) Manage user accounts
+    
+26  What is the purpose of the scp command in Linux?
+    A) Copy files securely between hosts
+    B) Move files between directories
+    C) Compress files
+    D) Change file permissions
+    
+27  In Linux, what does the ps command do?
+    A) Display system processes
+    B) Change file permissions
+    C) Search for files
+    D) Copy files and directories
+    
+28  Which command is used to edit a text file in Linux from the command line?
+    A) vi
+    B) mvi
+    C) edit
+    D) textedit
+    
+29  What is the purpose of the mount command in Linux?
+    A) Display disk usage
+    B) Mount filesystems
+    C) Change file permissions
+    D) Create symbolic links
+    
+30  Which command is used to display real-time system information in Linux?
+    A) sysinfo
+    B) top
+    C) status
+    D) stats
+    
+31  Which command is used to set or unset environment variables in Linux?
+    A) env
+    B) setenv
+    C) export
+    D) envvar
+    
+32  What is the purpose of the sudo command in Linux?
+    A) Shutdown the system
+    B) Switch user
+    C) Elevate privileges
+    D) Create new users
+    
+33  What is redirection in Linux?
+    A) A process to change the flow of input and output from/to files, devices, or streams.
+    B) A Linux distribution specialized in network security.
+    C) A command used to restart services.
+    D) A tool to check disk usage statistics.
+    
+34  What symbol is used for output redirection in Linux?
+    A) >
+    B) <
+    C) |
+    D) >>
+    
+35  How do you append output to a file in Linux?
+    A) <
+    B) >
+    C) |
+    D) >>
+    
+36  What is the purpose of the 2> operator in Linux?
+    A) Redirect standard input.
+    B) Redirect standard output.
+    C) Redirect standard error (stderr) output.
+    D) Create a named pipe.
+    
+37  What command is used for redirecting standard input in Linux?
+    A) >
+    B) |
+    C) <
+    D) &>
+    
+38  How do you redirect both standard output and standard error to the same file?
+    A) >>
+    B) &
+    C) &
+    D) &>
+    
+39  What is the purpose of the /dev/null device in Linux redirection?
+    A) A device for printing logs.
+    B) A device to discard output.
+    C) A device for formatting disks.
+    D) A device for network communication.
+    
+40  What is the difference between > and >> in output redirection?
+    A) > overwrites the file, while >> appends to the file.
+    B) >> overwrites the file, while > appends to the file.
+    C) Both overwrite the file.
+    D) Both append to the file.
+    
+41  How do you redirect both standard output and standard error to separate files?
+    A) >stdout.txt 2>stderr.txt
+    B) &>output.txt
+    C) >&
+    D) |tee output.txt
+    
+42  What command is used to redirect standard output and standard error to the same file without overwriting its contents?
+    A) >>
+    B) &
+    C) &>>
+    D) &>
+    
+43  What command is used to discard both standard output and standard error?
+    A) >
+    B) &
+    C) /dev/null
+    D) <
+    
+44  What is the purpose of the pipe (|) operator in Linux?
+    A) To redirect output to a file.
+    B) To pass output from one command as input to another command.
+    C) To discard output.
+    D) To create a named pipe.
+    
+45  What is the purpose of the tee command in Linux?
+    A) To discard output.
+    B) To redirect output to multiple files.
+    C) To display output on the terminal.
+    D) To pass output to another command.
+    
+46  How do you redirect output to a file while still displaying it on the terminal?
+    A) |tee output.txt
+    B) >
+    C) <output.txt
+    D) >>
+    
+47  How do you redirect both standard input and standard output to/from a file in Linux?
+    A) |>
+    B) <|
+    C) <>
+    D) <>
+    
+48  What is the difference between | and > in Linux?
+    A) | is used for output redirection, while > is used for piping.
+    B) | is used for piping, while > is used for output redirection.
+    C) | is used for input redirection, while > is used for output redirection.
+    D) | is used for redirecting standard error, while > is used for redirecting standard output.
+    
+49  What is the purpose of the 1> operator in Linux?
+    A) Redirect standard input.
+    B) Redirect standard output.
+    C) Redirect standard error.
+    D) Redirect both standard output and standard error.
+    
+50  How do you redirect the output of a command to both a file and the terminal in Linux?
+    A) >output.txt
+    B) &>output.txt
+    C) |tee output.txt
+    D) &>>output.txt
+        
+51  How do you redirect the output of a command to the input of another command in Linux?
+    A) |>
+    B) >|
+    C) <<
+    D) |
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
